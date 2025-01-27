@@ -2,4 +2,4 @@ This documentation describes how to use the Karel automatic toothbrush. Isn't th
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
 
-The toothbrush requires more info (branch). Conflict of changes to merge!!!
+The toothbrush requires more info.
